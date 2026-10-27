@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel 👋
+# Hello, I'm Gabriel
 
 I'm a software developer doing QA automation at **Melaleuca** and an Information Systems student (Math minor) at **BYU**, graduating December 2026. I like making slow, manual work fast.
 
